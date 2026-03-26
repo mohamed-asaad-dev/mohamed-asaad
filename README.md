@@ -5,13 +5,16 @@ Mechatronics Engineering graduate interested in Embedded Systems, Cloud, and Mob
 
 ## Skills
 - C / C++
+- Linux
+- Bash
+- Python
+- Networking
 - Flutter (Dart)
-- PLC Fundamentals
 - SolidWorks & AutoCAD
 - AWS (Cloud Practitioner – Feb 2026)
 
 ## Current Focus
-- Building IoT systems connected to AWS
+- Building high value networking, and security tools
 - Developing mobile apps using Flutter
 - Learning cloud infrastructure and system integration
 
